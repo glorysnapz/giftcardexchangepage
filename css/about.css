@@ -1,0 +1,45 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color: #707070;
+
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+}
+.link {
+    text-decoration: none;
+    color: #707070;
+}
+.active {
+    color: #049Ac7;
+}
+h1 {
+    font-size: 60px;
+}
+.text {
+    color: #707070;
+}
+.home {
+    word-spacing: 30px;
+    text-decoration: none;
+}
+.text {
+    width: 40%;
+}
+.buttom {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+}
